@@ -33,7 +33,7 @@ A powerful, modern userscript that lets you fully customize keyboard shortcuts o
    * Or manually from this repository
 
 ```bash
-example
+https://greasyfork.org/en/scripts/571853-pixeldrain-key-remapper
 ```
 
 3. Open Pixeldrain → Click the ⌨️ button (bottom-right)
